@@ -9,7 +9,7 @@ A simple crypto price tracking web app built using HTML, CSS, and JavaScript.
 - Built for learning and practice purposes
 
 ## Live Demo
-[View Project Live]()
+[View Project Live](https://shyam-260706.github.io/crypto-tracker/)
 
 ## Technologies Used
 - HTML
