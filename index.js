@@ -15,7 +15,7 @@ const fetchCrypto = async () => {
     div.classList.add("crypto");
     div.innerHTML = `
       <h2>${coin.name} (${coin.symbol.toUpperCase()})</h2>
-      <p>💲 Price: $${coin.current_price.toLocaleString()}</p>
+      <p> Price: $${coin.current_price.toLocaleString()}</p>
       <p class="${changeClass}">24h Change: ${coin.price_change_percentage_24h.toFixed(2)}%</p>
     `;
     container.appendChild(div);
