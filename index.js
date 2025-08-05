@@ -16,11 +16,11 @@ const fetchCrypto = async () => {
     div.innerHTML = `
       <h2>${coin.name} (${coin.symbol.toUpperCase()})</h2>
       <p>💲 Price: $${coin.current_price.toLocaleString()}</p>
-      <p class="${changeClass}">📈 24h Change: ${coin.price_change_percentage_24h.toFixed(2)}%</p>
+      <p class="${changeClass}">24h Change: ${coin.price_change_percentage_24h.toFixed(2)}%</p>
     `;
     container.appendChild(div);
   });
 };
 
 fetchCrypto();
-setInterval(fetchCrypto, 30000); // Updates every 30 seconds
+setInterval(fetchCrypto, 30000); 
