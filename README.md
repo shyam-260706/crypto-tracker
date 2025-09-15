@@ -14,8 +14,7 @@ A simple cryptocurrency price tracking web app built using **HTML**, **CSS**, an
 ## Live Demo
 
 [View Project Live](#)  
-*Replace `#` with your live demo URL if available.*
-
+ https://shyam-260706.github.io/crypto-tracker/
 
 ## Technologies Used
 
