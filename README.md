@@ -1,24 +1,30 @@
 # Crypto Tracker
 
-A simple crypto price tracking web app built using HTML, CSS, and JavaScript.
+A simple cryptocurrency price tracking web app built using **HTML**, **CSS**, and **JavaScript**.
+
 
 ## Features
-- Real-time crypto price display using CoinGecko API
-- 24h price change indicator with color highlights
-- Clean, modern, and responsive UI design
-- Built for learning and practice purposes
+
+- Real-time cryptocurrency price display using the **CoinGecko API**  
+- 24-hour price change indicator with color highlights (green for positive, red for negative)  
+- Clean, modern, and responsive UI design  
+- Built primarily for learning and practice purposes  
+
 
 ## Live Demo
-[View Project Live](https://shyam-260706.github.io/crypto-tracker/)
+
+[View Project Live](#)  
+*Replace `#` with your live demo URL if available.*
+
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript (Vanilla JS)
-- CoinGecko API
 
-## Author
-Bala SUbramanian R
+- HTML  
+- CSS  
+- JavaScript (Vanilla JS)  
+- [CoinGecko API](https://www.coingecko.com/en/api)  
+
 
 ## Project Status
-Initial version uploaded to GitHub  
+
+Initial version uploaded to GitHub.
